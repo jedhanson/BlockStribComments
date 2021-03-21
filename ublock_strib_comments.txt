@@ -1,9 +1,9 @@
-! Version: 1
+! Version: 2
 ! Title: Block Strib Comments
 ! Last modified: 10 March 2021 01:00 UTC
 ! Expires: 1 week
 ! License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication 
 
-! 2020-03-10 https://www.startribune.com
+! 2020-03-21 https://www.startribune.com
 www.startribune.com##.comments-section
-
+www.startribune.com##.related-icn-comments.tease-list-item 
